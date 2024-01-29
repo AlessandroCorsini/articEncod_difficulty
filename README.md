@@ -1,3 +1,3 @@
 # articEncod_difficulty
 
-![Figure](resume.jpg)
+![Figure](Graphical Abstract.pdf)
